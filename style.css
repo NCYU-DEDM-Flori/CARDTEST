@@ -99,4 +99,14 @@ section#s6 {
 .toTop-arrow:focus {
   outline: none;
 }
+
+/* Style the navigation bar */
+.navbar {
+  background-color: #555;
+}
+/* Navbar links on mouse-over */
+.navbar a:hover {
+  background-color: #feffa3;
+}
+
 /*更多資訊按鈕*/
