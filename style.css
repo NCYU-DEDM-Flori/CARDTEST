@@ -38,8 +38,8 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 97%;
-  max-width: 1920px;
+  width: 95%;
+  max-width: 1000px;
   margin: 0 auto;
   color: #222;
   font-weight: 600;
