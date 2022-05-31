@@ -28,25 +28,21 @@
 }
 
 body {
-  font-family: "微軟正黑體", sans-serif;
-  font-size: 12pt;
-}
-
-body {
   background: white;
   font-family: "微軟正黑體", sans-serif;
   font-size: 12pt;
 }
+
 section {
   padding-top: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 97%;
-  max-width: 900px;
+  max-width: 1920px;
   margin: 0 auto;
   color: #222;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 section#s1 {
